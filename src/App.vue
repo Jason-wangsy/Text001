@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img src="./assets/logo.png">
-    <h3>===============分割线===============</h3>
+    <h3>===============分割线!===============</h3>
     <router-view/>
   </div>
 </template>
